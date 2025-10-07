@@ -2,7 +2,7 @@ fx_version 'cerulean'
 game 'gta5'
 
 author 'Koza'
-description 'Flight License System for QB-Core'
+description 'Flight License System for VMS Flgiht School'
 version '1.0.0'
 
 client_scripts {
@@ -11,4 +11,5 @@ client_scripts {
 
 dependencies {
     'qb-core'
+
 }
